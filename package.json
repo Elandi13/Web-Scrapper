@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Elvis Landi",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.4",
